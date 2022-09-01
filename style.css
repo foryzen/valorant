@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.headtxt_01 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    border-left: 7px solid #44ffc7;
+    padding-left: 10px;
+    color: #44ffc7;
+}
+
+.headtxt_01a {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #44ffc7;
+    margin: 30px 0 0 30px;
+}
+
+.div_01 {
+    display: flex;
+}
+
+.one-div {
+    display: inline-block;
+}
+
+.all-div {
+    display: flex;
+}
+
+.one-div {
+    margin: 0 13px 0 15px;
+}
+
+.three-div {
+    margin: 0 13px 0 10px;
+}
